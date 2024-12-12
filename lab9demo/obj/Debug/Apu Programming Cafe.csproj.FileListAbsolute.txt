@@ -1,0 +1,32 @@
+D:\C#\lab9demo\lab9demo\bin\Debug\myDB.mdf
+D:\C#\lab9demo\lab9demo\bin\Debug\myDB_log.ldf
+D:\C#\lab9demo\lab9demo\bin\Debug\lab9demo.exe.config
+D:\C#\lab9demo\lab9demo\bin\Debug\lab9demo.exe
+D:\C#\lab9demo\lab9demo\bin\Debug\lab9demo.pdb
+D:\C#\lab9demo\lab9demo\obj\Debug\Apu Programming Cafe.csproj.AssemblyReference.cache
+D:\C#\lab9demo\lab9demo\obj\Debug\Apu Programming Cafe.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.AdminIncomeReport.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.AdminProfile.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.AdminTrainers.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.AdminViewFeedback.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.LecturerModifyStudents.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.AdminHome.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.LecturerHome.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.LecturerProfile.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.LecturerRequests.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.Login.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.Properties.Resources.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.StudentHome.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.StudentInvoice.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.StudentProfile.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.StudentRequests.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.StudentTimetable.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.TrainerCoachInfo.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.TrainerFeedback.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.TrainerHome.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.TrainerProfile.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.TrainerViewStudents.resources
+D:\C#\lab9demo\lab9demo\obj\Debug\Apu Programming Cafe.csproj.GenerateResource.cache
+D:\C#\lab9demo\lab9demo\obj\Debug\Apu Programming Cafe.csproj.CoreCompileInputs.cache
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.exe
+D:\C#\lab9demo\lab9demo\obj\Debug\lab9demo.pdb
